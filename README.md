@@ -31,3 +31,6 @@ In certain new offspring formed, some of their genes can be subjected to a mutat
 
 ### Termination
 Algorithm stops when desired solution is obtained, or score converges.
+
+
+## Notice: This info is from towardsdatascience website.
